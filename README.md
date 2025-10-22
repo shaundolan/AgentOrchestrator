@@ -1,2 +1,3 @@
 # AgentOrchestrator
-A lightweight orchestrator for AI agent development teams, with MCP connector services and UI.
+
+Repository for the lightweight orchestrator.  See the repo root README for details.
